@@ -7,5 +7,5 @@ export default defineConfig({
         wasm()
     ],
     // config options
-    base: '/XEngine/'
+    base: '/XEngineGPU/'
 });
