@@ -1,2 +1,2 @@
 # XEngineGPU
-XEngine WebGPU version based on three.js
+XEngine WebGPU version based on three.js.
